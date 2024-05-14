@@ -1,6 +1,11 @@
+This the dive link of screenshots
+https://drive.google.com/file/d/101S23tUY2JcjlENdGuvptDWGxd-mE_X4/view?usp=sharing
+
 I have created MainTableViewController (UITableViewController) as mainVC and add horizontal 
 scrollable collections (UICollectionView) in it UITableViewCell. As for playing mp3, 
 before I use AVAudioPlayer and added play(), pause() functionality but later I see UISlider 
 & replaced with AVPlayer(Which is new to me). So, that mp3 can also controlled by slider.
 
-I can do alot better but due to time constraint, I can only do this much.
+I can do alot better but due to time constraint of doing 3 days task in 1 day, I can only do this much.
+
+Thank You!
